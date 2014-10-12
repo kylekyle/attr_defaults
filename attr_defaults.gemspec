@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name                  = 'attr_defaults'
-  s.version               = '0.1.1'
+  s.version               = '0.1.2'
   s.license               = 'MIT'
   s.summary               = 'Adds defaults to attr methods'
   s.description           = "Mixin to specify defaults for Ruby's `attr` methods"
