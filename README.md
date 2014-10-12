@@ -3,6 +3,17 @@ AttrDefaults
 
 Mixin to specify defaults for Ruby's `attr` methods. Note that this gem requires Ruby 2.0.0 or greater. 
 
+Installation
+------------
+
+```bash
+ $ gem install attr_defaults
+```
+
+Usage
+-----
+
+
 ```ruby
 require 'attr_defaults'
 
