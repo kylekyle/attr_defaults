@@ -1,6 +1,6 @@
 module AttrDefaults
 	module Initialize
-		def initialize 
+		def initialize *args, &block
 			defaults = class << self.class
 				@attr_defaults
 			end			
